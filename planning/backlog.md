@@ -10,11 +10,12 @@ create your own!
 > these are necessary for basic usability
 
 - As a user, I need to be able to see what I type and the result.
+
   - [ ] display screen
 
 - As a user, I need to be able to type any numbers and operators.
   - [ ] numbers: 0-9
-  - [ ] operators: / * - + =
+  - [ ] operators: / \* - + =
   - [ ] Clear button to refresh
 
 ## Should-Haves

@@ -11,6 +11,7 @@ Some boundaries around our project.
   - UI design or color schemes
   - technologies (sometimes a client will tell you what to use)
 -->
+
 NA
 
 ## Internal: Involuntary
