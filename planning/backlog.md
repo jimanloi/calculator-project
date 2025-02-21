@@ -9,22 +9,26 @@ create your own!
 
 > these are necessary for basic usability
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- As a user, I need to be able to see what I type and the result.
+  - [ ] display screen
+
+- As a user, I need to be able to type any numbers and operators.
+  - [ ] numbers: 0-9
+  - [ ] operators: / * - + =
+  - [ ] Clear button to refresh
 
 ## Should-Haves
 
 > these will complete the user experience, but are not necessary
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- As a user, I might want to do more complex math. I would need:
+  - [ ] parenthesis ()
+  - [ ] negative number +/-
+  - [ ] exponentiation
 
 ## Could-Haves
 
 > would be really cool ... if there's time
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- As a user, it could be cool to be able to delete input without clearing everything
+  - [ ] delete option

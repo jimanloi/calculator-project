@@ -2,6 +2,8 @@
 
 <!-- describe your project -->
 
+This project will be a simple digital calculator.
+
 ---
 
 ## Setup
@@ -11,6 +13,7 @@
   - loading program data
   - rendering the initial user interface
 -->
+Open with Live Server
 
 ---
 
@@ -32,24 +35,10 @@
 
 ### Logic: user story
 
-- a _logic_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+- As a user, I need to be able to see what I type and the result.
+  - [ ] display screen
 
-### Interface: user story
-
-- an _interface_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
-
-### Interaction: user story
-
-- an _interaction_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
-
-### Documentation: user story
-
-- a _documentation_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+- As a user, I need to be able to type any numbers and operators.
+  - [ ] numbers: 0-9
+  - [ ] operators: / * - + =
+  - [ ] Clear button to refresh

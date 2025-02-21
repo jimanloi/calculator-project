@@ -1,20 +1,25 @@
 # How to Plan
 
-1. [Brainstorming](#brainstorming)
-2. [Prioritizing](#prioritizing)
-3. [User Story Dependencies](#user-story-dependencies)
-4. [Acceptance Criteria](#acceptance-criteria)
-5. [Defining Tasks](#defining-tasks)
-6. [Project Board](#project-board)
-7. [Sprinting and Reviewing](#sprinting-and-reviewing)
+- [How to Plan](#how-to-plan)
+  - [Brainstorming](#brainstorming)
+  - [Prioritizing](#prioritizing)
+  - [Acceptance Criteria](#acceptance-criteria)
+  - [User Story Dependencies](#user-story-dependencies)
+  - [Defining Tasks](#defining-tasks)
+  - [Project Board](#project-board)
+  - [Sprinting and Reviewing](#sprinting-and-reviewing)
 
 ---
 
 ## Brainstorming
 
 > - What user needs and business problem does this app cover?
+
+A simple calculator
+
 > - Who is the user?
-> - What is the business?
+
+Anyone who wants to calculate something quickly on their computer or phone.
 
 ---
 
@@ -70,7 +75,7 @@ relationships will make it possible go from a disorganized backlog to an
 organized development strategy.
 
 Understanding these dependencies can also allow you to develop much more
-efficiently. You can develope user stories that do not depend on each other in
+efficiently. You can develop user stories that do not depend on each other in
 parallel instead of waiting for one to finish before moving on the next.
 
 Here are some questions you can ask yourself to help understand your project:
