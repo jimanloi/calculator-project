@@ -8,5 +8,42 @@
 
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: #565454;
+    background-color: #000000;
+    color: aliceblue;
+}
+
+header {
+    text-align: center;
+    padding: 5px;
+    margin-top: 5px;
+}
+
+.calculator {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#display {
+    border: 1px solid #ffffff;
+    height: 50px;
+    align-content: center;
+    width: 40%;
+    margin: 10px;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 40%;
+}
+
+.buttons row {
+    padding: 5px;
+}
+
+.row button {
+    height: 30px;
+    width: 50px;
 }
