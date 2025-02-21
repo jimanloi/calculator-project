@@ -13,6 +13,7 @@ This project will be a simple digital calculator.
   - loading program data
   - rendering the initial user interface
 -->
+
 Open with Live Server
 
 ---
@@ -36,9 +37,10 @@ Open with Live Server
 ### Logic: user story
 
 - As a user, I need to be able to see what I type and the result.
+
   - [ ] display screen
 
 - As a user, I need to be able to type any numbers and operators.
   - [ ] numbers: 0-9
-  - [ ] operators: / * - + =
+  - [ ] operators: / \* - + =
   - [ ] Clear button to refresh
