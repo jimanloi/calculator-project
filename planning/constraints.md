@@ -11,6 +11,7 @@ Some boundaries around our project.
   - UI design or color schemes
   - technologies (sometimes a client will tell you what to use)
 -->
+NA
 
 ## Internal: Involuntary
 
@@ -21,6 +22,9 @@ Some boundaries around our project.
   - amount of time available to work on the project
 -->
 
+- First project using JavaScript, HTML and CSS altogether.
+- 6 days to complete the project.
+
 ## Internal: Voluntary
 
 <!--
@@ -30,3 +34,5 @@ Some boundaries around our project.
   - the number of hours you want to spend working
   - only using the colors black and white
 -->
+
+NA
